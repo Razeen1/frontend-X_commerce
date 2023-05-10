@@ -24,4 +24,6 @@ npm run test
 👤 **Rajin Bhuju**
 
 * Website: rajinbhuju.com.np
+
+## Preview
 ![image](/img11.jpg)
