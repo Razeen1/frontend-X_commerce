@@ -1,6 +1,6 @@
 # Welcome to x-commerce 👋
 ![Version](https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000)
-
+A Ecommerce website buildt using react with Tailwind CSS
 ## Install
 
 ```sh
