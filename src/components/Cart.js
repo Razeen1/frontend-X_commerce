@@ -50,7 +50,7 @@ const Cart = () => {
                     onClick={() => {
                       handleRemove(product.id);
                     }}
-                    className="bg-[#A91079] hover:bg-[#F806CC] text-white rounded-lg font-normal p-[5px]"
+                    className="bg-blue-950 hover:bg-blue-700 text-white rounded-lg font-normal p-[5px]"
                   >
                     Remove
                   </button>
